@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="219LI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/219LI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="demo_for_java.jar">
+        <element id="module-output" name="demo_for_java" />
+      </element>
+      <element id="file-copy" path="D:/我的下载/jgap_3.6.3_jar/jgap.jar" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/w3c/dom/2.3.0-jaxb-1.0.6/dom-2.3.0-jaxb-1.0.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/demo.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/json.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/ezmorph-1.0.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/commons-lang-2.4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/json-lib-2.4-jdk15.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/commons-logging-1.1.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/commons-beanutils-1.8.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/commons-collections-3.2.jar" />
+    </root>
+  </artifact>
+</component>
